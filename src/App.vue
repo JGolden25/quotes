@@ -7,6 +7,7 @@
                 <div class="alert alert-info">Info: Click on a quote to delete!</div>
         </div>
     </div>
+    </div>
 </template>
 
 <script>
