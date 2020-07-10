@@ -27,7 +27,7 @@ import NewQuote from './components/NewQuote.vue';
                 this.quotes.push(quote);
             },
             deleteQuote(index) {
-                this.quote.splice(index, 1);
+                this.quotes.splice(index, 1);
             }
         },
         components: {

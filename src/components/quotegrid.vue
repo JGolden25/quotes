@@ -13,7 +13,7 @@
         },
         methods: {
             deleteQuote(index) {
-                this.$emit('quoteDelted', index);
+                this.$emit('quoteDeleted', index);
             }
         }
     }
