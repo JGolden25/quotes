@@ -19,7 +19,7 @@ import Header from './components/Header.vue';
         data: function() {
             return {
                 quotes:[
-                    'Just a Quote tesst'
+
                 ],
                 maxQuotes:10
             }
